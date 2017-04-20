@@ -5,14 +5,24 @@
 <obecne_nastaveni> 
   <jazyk>CZ</jazyk>
   <kodovani>UTF-8</kodovani>
-  <FB_plugin>1</FB_plugin>
-  <GOOGLE_plugin>1</GOOGLE_plugin>
-  <časova_zona>UTC+1</časova_zona>
-  <twiter_plugin>1</twiter_plugin>
+  <casova_zona>UTC+1</casova_zona>
+  <socialni_site>
+  	<FB_plugin>1</FB_plugin>
+  	<GOOGLE_plugin>1</GOOGLE_plugin>
+  	<twiter_plugin>1</twiter_plugin>
+  	<vkontakte>1</vkontakte>
+  	<linkedin>1</linkedin>
+  	<tumblr>0</tumblr>
+  	<pinterest>0</pinterest>
+  	<youtube_plugin>1</youtube_plugin>
+  	<my_space>1</my_space>
+  </socialni_site>
   <nastaveni_modulu>
-  		<komentare>1</komentare>
-  		<hodnoceni>1</hodnoceni>
-  		<reakce>1</reakce>
+  	<komentare>1</komentare>
+  	<hodnoceni>1</hodnoceni>
+  	<reakce>1</reakce>
+	<vkladani_obrazku>0</vkladani_obrazku>
+	<vkladani_videi>0</vkladani_videi>   
   </nastaveni_modulu>
 </obecne_nastaveni>
 <!-- nastavení práv pro uživatele -->
