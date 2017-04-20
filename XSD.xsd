@@ -10,16 +10,30 @@
             <xs:sequence>
               <xs:element type="xs:string" name="jazyk"/>
               <xs:element type="xs:string" name="kodovani"/>
-              <xs:element type="xs:byte" name="FB_plugin"/>
-              <xs:element type="xs:byte" name="GOOGLE_plugin"/>
-              <xs:element type="xs:string" name="časova_zona"/>
-              <xs:element type="xs:byte" name="twiter_plugin"/>
+              <xs:element type="xs:string" name="casova_zona"/>
+              <xs:element name="socialni_site">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element type="xs:byte" name="FB_plugin"/>
+                    <xs:element type="xs:byte" name="GOOGLE_plugin"/>
+                    <xs:element type="xs:byte" name="twiter_plugin"/>
+                    <xs:element type="xs:byte" name="vkontakte"/>
+                    <xs:element type="xs:byte" name="linkedin"/>
+                    <xs:element type="xs:byte" name="tumblr"/>
+                    <xs:element type="xs:byte" name="pinterest"/>
+                    <xs:element type="xs:byte" name="youtube_plugin"/>
+                    <xs:element type="xs:byte" name="my_space"/>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
               <xs:element name="nastaveni_modulu">
                 <xs:complexType>
                   <xs:sequence>
                     <xs:element type="xs:byte" name="komentare"/>
                     <xs:element type="xs:byte" name="hodnoceni"/>
                     <xs:element type="xs:byte" name="reakce"/>
+                    <xs:element type="xs:byte" name="vkladani_obrazku"/>
+                    <xs:element type="xs:byte" name="vkladani_videi"/>
                   </xs:sequence>
                 </xs:complexType>
               </xs:element>
