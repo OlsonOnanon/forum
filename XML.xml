@@ -85,7 +85,7 @@
 		<uzivatel ID="3">
 			<nick>Zeus</nick>
 			<hodnost>Uzivatel urovne 3</hodnost>
-			<opravneni>2</opravneni>
+			<opravneni>1</opravneni>
 			<vek>18</vek>
 		</uzivatel>
 		<uzivatel ID="4">
@@ -219,7 +219,7 @@
 		<uzivatel ID="4">
 			<nick>host</nick>
 			<hodnost>neregistrovany uzivatel</hodnost>
-			<opravneni>1</opravneni>
+			<opravneni>0</opravneni>
 			<vek></vek>
 		</uzivatel>
 	</uzivatelska_prava>
