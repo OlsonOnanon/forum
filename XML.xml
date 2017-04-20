@@ -94,12 +94,6 @@
 			<opravneni>1</opravneni>
 			<vek></vek>
 		</uzivatel>
-		<uzivatel ID="5">
-			<nick>Admin</nick>
-			<hodnost>Admin</hodnost>
-			<opravneni>4</opravneni>
-			<vek></vek>
-		</uzivatel>
 	</uzivatelska_prava>
 </diskuze>
 
@@ -130,12 +124,6 @@
 			<nick>host</nick>
 			<hodnost>neregistrovany uzivatel</hodnost>
 			<opravneni>1</opravneni>
-			<vek></vek>
-		</uzivatel>
-		<uzivatel ID="5">
-			<nick>Admin</nick>
-			<hodnost>Admin</hodnost>
-			<opravneni>4</opravneni>
 			<vek></vek>
 		</uzivatel>
 	</uzivatelska_prava>
@@ -170,12 +158,6 @@
 			<opravneni>1</opravneni>
 			<vek></vek>
 		</uzivatel>
-		<uzivatel ID="5">
-			<nick>Admin</nick>
-			<hodnost>Admin</hodnost>
-			<opravneni>4</opravneni>
-			<vek></vek>
-		</uzivatel>
 	</uzivatelska_prava>
 </diskuze>
 
@@ -208,12 +190,6 @@
 			<opravneni>1</opravneni>
 			<vek></vek>
 		</uzivatel>
-		<uzivatel ID="5">
-			<nick>Admin</nick>
-			<hodnost>Admin</hodnost>
-			<opravneni>4</opravneni>
-			<vek></vek>
-		</uzivatel>
 	</uzivatelska_prava>
 </diskuze>
 
@@ -244,12 +220,6 @@
 			<nick>host</nick>
 			<hodnost>neregistrovany uzivatel</hodnost>
 			<opravneni>1</opravneni>
-			<vek></vek>
-		</uzivatel>
-		<uzivatel ID="5">
-			<nick>Admin</nick>
-			<hodnost>Admin</hodnost>
-			<opravneni>4</opravneni>
 			<vek></vek>
 		</uzivatel>
 	</uzivatelska_prava>
